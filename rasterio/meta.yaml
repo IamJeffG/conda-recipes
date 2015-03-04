@@ -1,9 +1,9 @@
 package:
   name: rasterio
-  version: "0.15.1"
+  version: "0.18.0"
 
 source:
-  git_tag: "0.15.1"
+  git_tag: "0.18"
   git_url: https://github.com/mapbox/rasterio.git
 #  patches:
    # List any patch files here
